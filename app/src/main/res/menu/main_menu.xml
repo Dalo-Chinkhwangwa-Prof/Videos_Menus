@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/videos"
+        android:title="Videos"
+        >
+        <menu>
+            <item
+                android:id="@+id/vid_1"
+                android:title="Video 1"/>
+            <item
+                android:id="@+id/vid_2"
+                android:title="Video 2"/>
+            <item
+                android:id="@+id/vid_3"
+                android:title="Video 3"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/names"
+        android:title="Names"
+        />
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        />
+</menu>
